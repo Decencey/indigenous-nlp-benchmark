@@ -1,3 +1,6 @@
+## Abubakar Imran
+##Contributor
+
 # Indigenous NLP Benchmark
 
 A university-level low-resource Natural Language Processing assignment focusing on **Nupe** and **Gbagyi** languages.
